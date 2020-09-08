@@ -3,10 +3,11 @@ title: Lectures
 ---
 Below is the list of lectures in pdf format.
 
-1. [Complexity Anlysis](/files/csc313-lecture-complexity.pdf)
-2. [vectors, lists ...](/files/csc313-lecture-lists.pdf)
-3. [Trees](/files/csc313-lecture-trees.pdf)
-4. [Sorting](files/csc313-lecture-sorting.pdf)
-5. [Graphs](/files/csc313-lecture-graphs.pdf)
+1. [Divide and Conquer](/files/divide-conquer.pdf)
+2. [Greedy](/files/greedy.pdf)
+3. [Dynamic Programming ](/files/dynamic-prog.pdf)
+4. [Network flows](files/flows.pdf)
+5. [NP completness ](/files/np.pdf)
+6. [Coping with NP completness ](/files/coping-np.pdf)
 
 
